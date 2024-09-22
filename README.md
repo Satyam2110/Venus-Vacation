@@ -1,2 +1,2 @@
 # Made by Satyam Dubey
-link: https://venusvacation.netlify.app/
+link: venus-vacation.netlify.app
